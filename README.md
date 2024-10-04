@@ -12,10 +12,11 @@
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?
 
-    | :Nombre: | :Documentación: |
-    | :Markdown: | :Enlace: |
-    | :HTML: | :Enlace: |
-    | :CSS: | :Enlace: |
+    | Nombre | Documentación |
+    |:------------:|:------------:|
+    | Markdown | Enlace |
+    | HTML | Enlace |
+    | CSS | Enlace |
 
 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
