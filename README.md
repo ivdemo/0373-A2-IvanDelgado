@@ -45,3 +45,4 @@ _Figura 1: Estructura de código HTML_
 
     Si. Para visualizar una pagina web el navegador utiliza una url como estructura de la pagina. Empezando por una "raíz" donde se encuentra la pagina principal y redirigiéndose por los subapartados que contiene la propia pagina web.
 
+    
