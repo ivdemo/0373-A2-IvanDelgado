@@ -12,6 +12,8 @@
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?
 
+    Son lenguajes que nos permite la creación de paginas web.
+
     | Nombre | Documentación |
     |:------------:|:------------:|
     | Markdown | [Enlace](https://es.wikipedia.org/wiki/Markdown "Enlace") |
