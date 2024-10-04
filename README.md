@@ -14,9 +14,9 @@
 
     | Nombre | Documentación |
     |:------------:|:------------:|
-    | Markdown | Enlace |
-    | HTML | Enlace |
-    | CSS | Enlace |
+    | Markdown | [Enlace](https://es.wikipedia.org/wiki/Markdown "Enlace") |
+    | HTML | [Enlace](https://es.wikipedia.org/wiki/HTML "Enlace") |
+    | CSS | [Enlace](https://es.wikipedia.org/wiki/CSS "Enlace") |
 
 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
@@ -45,4 +45,6 @@ _Figura 1: Estructura de código HTML_
 
     Si. Para visualizar una pagina web el navegador utiliza una url como estructura de la pagina. Empezando por una "raíz" donde se encuentra la pagina principal y redirigiéndose por los subapartados que contiene la propia pagina web.
 
-    
+    ![Peticiones HTML](https://github.com/ivdemo/0373-A2-IvanDelgado/blob/main/LenguajeDeMarcas.jpg "Peticiones HTML")
+
+    _Figura 2: Esquema de peticiones HTML_
